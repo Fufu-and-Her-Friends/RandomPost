@@ -55,7 +55,7 @@ So be aware when you try to create your own ASCII art, the text might look diffe
 
 ## Allowing `fufusay` to display UTF-8 characters
 
-Wait! If you test the script before reading this section, you might wonder why your output is not the same as what I produced. You may see something like this:
+Wait! If you test the script before reading this section, you might wonder why your output is not the same as what you expect. You may see something like this:
 
 ![fufusay-utf8-characters](figures/fufusay-utf8-characters.png)
 
